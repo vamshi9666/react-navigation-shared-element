@@ -323,7 +323,7 @@ PODS:
     - React-RCTVibration
     - ReactCommon/turbomodule/core
     - Yoga
-  - RNScreens (3.4.0):
+  - RNScreens (3.6.0):
     - React-Core
     - React-RCTImage
   - RNSharedElement (0.8.2):
@@ -548,7 +548,7 @@ SPEC CHECKSUMS:
   RNCMaskedView: 0e1bc4bfa8365eba5fbbb71e07fbdc0555249489
   RNGestureHandler: a479ebd5ed4221a810967000735517df0d2db211
   RNReanimated: d9da990fc90123f4ffbfdda93d00fc15174863a8
-  RNScreens: 21b73c94c9117e1110a79ee0ee80c93ccefed8ce
+  RNScreens: eb0dfb2d6b21d2d7f980ad46b14eb306d2f1062e
   RNSharedElement: 87baf6d04da5b068f000dd8c953d28a1196999c0
   RNVectorIcons: 368d6d8b8301224e5ffb6254191f4f8876c2be0d
   UMAppLoader: 21af63390e55c82e037fb9752d93114a80ecf16e
